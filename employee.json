@@ -1,20 +1,5 @@
 {
   "employees": [
-    {
-      "Firstname": "",
-      "Lastname": "",
-      "Gender": "",
-      "Dateofbirth": "",
-      "Department": "",
-      "id": 1
-    },
-    {
-      "Firstname": "",
-      "Lastname": "",
-      "Gender": "",
-      "Dateofbirth": "",
-      "Department": "",
-      "id": 2
-    }
+    
   ]
 }
